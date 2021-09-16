@@ -10,3 +10,4 @@ Econometric analysis applied to commodities
 6) impulse response var (irf var)
 7) Filters (Brent) Hodric-Prescott filter, Moving average, Kalman Filter, comparison
 8) Sensitivity of filters to predefined parameters
+9) Test of a random walk 
